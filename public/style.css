@@ -1,5 +1,6 @@
 html{
     scroll-behavior: smooth;
+    
 }
 body{
     margin: 0;
@@ -834,6 +835,7 @@ div#carousel{
     overflow: hidden;
 
     min-height: 74vh;
+    padding: 10% 0;
 }
   .swipper-container{
     width: 80%;
